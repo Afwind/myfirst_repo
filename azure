@@ -1,4 +1,7 @@
+
+----------------------------------------------------
 master has aws files
 dev has aws and azure files
 now merged dev branch to master that make sure you are in master's branch for proper merge
 then push this master branch changes to central repo
+------------------------------------------------------
